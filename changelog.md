@@ -1,5 +1,8 @@
 # NPM/Node.js Cheatsheet
 
+## 1.0.0
+* Release
+
 ## 0.0.2
 * Changelog added
 * README updated
